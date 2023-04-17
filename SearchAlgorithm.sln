@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinearSearch", "LinearSearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch\LinearSearch.csproj", "{76588DB7-6F06-4CC1-87C9-4054585B05AB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SentinelLinearSearch", "SentinelLinearSearch", "{5810FECF-03A1-4929-AAA9-465183081178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelLinearSearch", "SentinelLinearSearch\SentinelLinearSearch\SentinelLinearSearch.csproj", "{D263D08C-0D6A-4F42-A397-85564EA0B228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,11 +25,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{76588DB7-6F06-4CC1-87C9-4054585B05AB} = {946A995A-8345-4397-88EC-DA2C60FCDE24}
+		{D263D08C-0D6A-4F42-A397-85564EA0B228} = {5810FECF-03A1-4929-AAA9-465183081178}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{76588DB7-6F06-4CC1-87C9-4054585B05AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76588DB7-6F06-4CC1-87C9-4054585B05AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76588DB7-6F06-4CC1-87C9-4054585B05AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76588DB7-6F06-4CC1-87C9-4054585B05AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D263D08C-0D6A-4F42-A397-85564EA0B228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D263D08C-0D6A-4F42-A397-85564EA0B228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D263D08C-0D6A-4F42-A397-85564EA0B228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D263D08C-0D6A-4F42-A397-85564EA0B228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
