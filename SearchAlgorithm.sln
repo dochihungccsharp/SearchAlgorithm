@@ -15,6 +15,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch\LinearSearch.csproj", "{76588DB7-6F06-4CC1-87C9-4054585B05AB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SentinelLinearSearch", "SentinelLinearSearch", "{5810FECF-03A1-4929-AAA9-465183081178}"
+	ProjectSection(SolutionItems) = preProject
+		SentinelLinearSearch\README.md = SentinelLinearSearch\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelLinearSearch", "SentinelLinearSearch\SentinelLinearSearch\SentinelLinearSearch.csproj", "{D263D08C-0D6A-4F42-A397-85564EA0B228}"
 EndProject
