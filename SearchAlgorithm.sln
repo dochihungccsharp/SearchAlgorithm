@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinearSearch", "LinearSearch", "{946A995A-8345-4397-88EC-DA2C60FCDE24}"
 	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
+		LinearSearch\README.md = LinearSearch\README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch\LinearSearch.csproj", "{76588DB7-6F06-4CC1-87C9-4054585B05AB}"
